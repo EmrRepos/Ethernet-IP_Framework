@@ -1,0 +1,2 @@
+class SecurityAssessment:
+    pass

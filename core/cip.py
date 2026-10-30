@@ -1,0 +1,2 @@
+class CIPClient:
+    pass
